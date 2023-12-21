@@ -30,7 +30,6 @@ def division(a, b):
             print("Division by zero is not allowed")
         else:
              print(division(a, b))     
-            
+
     else:
         print("Error: operation is not available")'''
-
